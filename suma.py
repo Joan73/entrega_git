@@ -13,10 +13,12 @@ Authors:
 import numpy as np
 
 def main():
+	# Fijamos semilla
+	np.random.seed(3)
 	# Obtenemos los números aleatorios
 	x,y,z = np.random.rand(3)
 	# Relizamos la suma
-	suma = (x+y)+z
+	suma = x+(y+z)
 	# Imprimimos el resultado
 	print("-"*90)
 	print(f'SUMA: {suma}')

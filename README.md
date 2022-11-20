@@ -13,3 +13,4 @@ También hay un archivo en python que calcula la suma de tres números aleatorio
 Se recomienda previamente tener un environment limpio y utilizar el comando "$ pip install requirements.txt" para tener los paquetes necesarios para ejecutar el archivo en python. 
 
 Línea Joan
+Línea Biel
