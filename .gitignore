@@ -38,6 +38,7 @@ ENV/
 *.RData
 *.Rhistory
 url.txt
+activitat.txt
 
 # Compressed files
 *.tar
