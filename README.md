@@ -11,3 +11,5 @@ Este repositorio contiene la segunda entrega de ejercicios de la segunda parte d
 También hay un archivo en python que calcula la suma de tres números aleatorios. Se puede ejecutar con "$ python3 penguin.py"
 
 Se recomienda previamente tener un environment limpio y utilizar el comando "$ pip install requirements.txt" para tener los paquetes necesarios para ejecutar el archivo en python. 
+
+Línea Joan
