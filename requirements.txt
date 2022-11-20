@@ -1,0 +1,2 @@
+# Basic requirements
+numpy           == 1.12.3
