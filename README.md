@@ -1,9 +1,13 @@
 ===================
-Primera entrega
+Segunda entrega
 ===================
 
-Este repositorio contiene la primera entrega de ejercicios de la segunda parte de la asignatura. Fundamentalmente se resuelven seis cuestiones sobre un dataset de pinguinos, usando la librería pandas y alguna función de la librería numpy.
+Autores:
+    Gabriel Jaume Martín
+    Joan Pont Escanellas
 
-Los datos para resolver las cuestiones se encuentran en la librería palmerpenguins, que es necesaria tener instalada. Consultar requirements.txt para más información de los paquetes necesarios.
+Este repositorio contiene la segunda entrega de ejercicios de la segunda parte de la asignatura. Fundamentalmente se resuelven una casuística típica de git en un entorno de producción: Solucionar unos problemas al realizar un merge
 
-Se recomienda tener un environment limpio y utilizar el comando "$ pip install requirements.txt". Para ver los resultados de las cuestiones se puede utilizar el comando "$ python3 penguin.py". Se recomienda consultar el fichero penguin.py para tener una explicación detallada del proceso de resolución de cada una de las cuestiones.
+También hay un archivo en python que calcula la suma de tres números aleatorios. Se puede ejecutar con "$ python3 penguin.py"
+
+Se recomienda previamente tener un environment limpio y utilizar el comando "$ pip install requirements.txt" para tener los paquetes necesarios para ejecutar el archivo en python. 
